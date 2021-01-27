@@ -1,5 +1,6 @@
 // Problem 1588 on Leetcode
 //only faster than 5% of submissions 
+//terrible brute force approach
 
 import java.util.*;
 
