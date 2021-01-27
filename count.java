@@ -1,0 +1,6 @@
+/**
+ * count
+ */
+public class count {
+
+}
